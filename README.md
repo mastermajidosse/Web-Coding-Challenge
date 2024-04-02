@@ -37,11 +37,11 @@ You can read more about the Github API over [here](https://developer.github.com/
 ).
 
 ## Mockups
-![alt text](https://raw.githubusercontent.com/mastermajidosse/mobile-coding-challenge/master/mockup.png)
+![alt text](https://github.com/mastermajidosse/Web-Coding-Challenge/blob/main/mockup.png)
 
 Here's what each element represents : 
 
-![alt text](https://raw.githubusercontent.com/mastermajidosse/mobile-coding-challenge/master/row-explained.png)
+![alt text](https://github.com/mastermajidosse/Web-Coding-Challenge/blob/main/row-explained.png)
 
 
 ## Technologies to use 
