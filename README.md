@@ -1,7 +1,7 @@
-# Mobile Coding Challenge
+# Front-end Coding Challenge
 
 ## Idea of the App 
-The task is to implement a small app that will list the most starred Github repos that were created in the last 30 days. 
+The task is to implement a small webapp that will list the most starred Github repos that were created in the last 30 days. 
 You'll be fetching the sorted JSON data directly from the Github API (Github API explained down below). 
 
 ## Features
@@ -10,9 +10,10 @@ You'll be fetching the sorted JSON data directly from the Github API (Github API
 * As a User I should be able to see for each repo/row the following details :
   * Repository name
   * Repository description 
-  * Numbers of stars for the repo. 
+  * Number of stars for the repo. 
+  * Number of issues for the repo.
   * Username and avatar of the owner. 
-* [BONUS] As a User I should be able to keep scrolling and new results should appear (pagination).
+* As a User I should be able to keep scrolling and new results should appear (pagination).
 
 ## Things to keep in mind 🚨
 * Features are less important than code quality. Put more focus on code quality and less on speed and number of features implemented. 
@@ -37,17 +38,19 @@ You can read more about the Github API over [here](https://developer.github.com/
 ).
 
 ## Mockups
-![alt text](https://github.com/mastermajidosse/Web-Coding-Challenge/blob/main/mockup.png)
+![alt text](https://github.com/mastermajidosse/Web-Coding-Challenge/raw/main/mockup1.png)
 
-Here's what each element represents : 
+Here's what each element represents :
 
-![alt text](https://github.com/mastermajidosse/Web-Coding-Challenge/blob/main/row-explained.png)
-
+![alt text](https://github.com/mastermajidosse/Web-Coding-Challenge/raw/main/row_explained.png)
 
 ## Technologies to use 
-Choose whatever mobile platform you're most familiar with. 
+Choose whatever front-end technology you're most familiar with. But here's some of the technologies our teams are familiar with:
+* React
+* Nextjs
 
-* For iOS, feel free to use Swift or Objective-C. 
-* For Android, feel free to use Kotlin or Java. 
+## How to submit the challenge solution? 
+Now after you finished your app and we assume that you already pushed it to your GitHub account, if so please follow the instructions below:
 
-
+1. Set the Repo Public
+2. Send the repo's link to this email: `masters.tech.otm@gmail.com`.
