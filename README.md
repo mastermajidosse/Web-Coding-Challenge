@@ -1,4 +1,4 @@
-# Front-end Coding Challenge
+# Full Coding Challenge
 
 ## Idea of the App 
 The task is to implement a small webapp that will list the most starred Github repos that were created in the last 30 days. 
@@ -53,4 +53,4 @@ Choose whatever front-end technology you're most familiar with. But here's some 
 Now after you finished your app and we assume that you already pushed it to your GitHub account, if so please follow the instructions below:
 
 1. Set the Repo Public
-2. Send the repo's link to this email: `masters.tech.otm@gmail.com`.
+2. Send the repo's link to this email: `mastermajidosse@gmail.com`.
